@@ -1,4 +1,4 @@
-# Scrapper-senado
+# Web Scraper senado - Chile
 Web scrapper para conseguir todos los resultados de las votaciones del senado en Chile.
 
 ### Importante
